@@ -1,0 +1,25 @@
+# Home Page
+
+- [repo](sanne-ux-ui)
+  - with your partner:
+    - [ ] README
+  - on your own:
+    - [ ] License
+    - [ ] Contributor Guidelines
+    - [ ] Code of Conduct
+- [live demo](https://sannesofie.github.io/sanne-ux-ui/)
+- `/planning`
+  - with your project partner:
+    - [ ] interview (your completed interview template)
+    - [ ] user personas
+    - [ ] backlog (developed with your partner based on the interview)
+    - [ ] wireframe (design your site's outline together)
+    - [ ] retrospective
+  - on your own:
+    - [ ] constraints
+    - [ ] development strategy
+    - [ ] Figma file
+- [ ] [project board](https://github.com/sannesofie/sanne-ux-ui/projects/1?add_cards_query=is%3Aopen)
+- Accessibility
+  - [ ] Web page uses semantic elements
+  - [ ] Web page has ARIA labels when necessary
