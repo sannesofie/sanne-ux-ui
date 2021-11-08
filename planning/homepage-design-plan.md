@@ -1,4 +1,4 @@
-# \_'s Home Page
+# \_Sanne's Home Page
 
 <!-- introduce your interviewee -->
 
@@ -7,8 +7,10 @@
 - [\_'s Home Page](#_s-home-page)
   - [Steps](#steps)
   - [1. First Interview](#1-first-interview)
-    - [Notes](#notes)
-    - [Summary](#summary)
+    - [Notes] Danish so want a "Scandinavian theme" for the website and keep it simple
+    - Work/life balance is important
+    - Can work remote or locally
+    - Hobby: Fitness Instructor
   - [2. Follow-Up Interview](#2-follow-up-interview)
   - [3. Capture Findings](#3-capture-findings)
     - [Needs](#needs)
@@ -24,24 +26,18 @@
 
 ## 1. First Interview
 
-<!--
-  Take a few minutes getting to know your partner and their ambitions. Ask questions about:
-
-  - Their background (Professional, programming, personal)
-  - Their ambitions (Professional, programming, personal)
-  - Outside interests (For tying into a personal statement)
-  - And much more ... listen to your partner and ask questions about what they tell you.
-
-  The best way to do your interview is with a lot of `why?`. Start your interview with one or two open-ended questions and follow up with a lot of `why?`, this gives your partner the chance to really explain themselves instead of just answering your questions. You might find that they even learn something about themselves!
--->
+Danish so want a "Scandinavian theme" for the website and keep it simple
+    - Work/life balance is important
+    - Can work remote or locally
+    - Hobby: Fitness Instructor
 
 ### Notes
 
-<!-- Notes you took during the interview. -->
+
 
 ### Summary
 
-<!-- Consolidate your notes into a few sentences. Do your best to express what your partner was trying to say, not what you learned from them. -->
+
 
 ---
 
