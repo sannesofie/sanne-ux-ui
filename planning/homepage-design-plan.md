@@ -1,15 +1,20 @@
-# \_'s Home Page
-
-<!-- introduce your interviewee -->
+# \Sanne's Home Page
 
 ## Steps
 
-- [\_'s Home Page](#_s-home-page)
+- [\Sanne's Home Page](#sannes-home-page)
   - [Steps](#steps)
   - [1. First Interview](#1-first-interview)
-    - [Notes](#notes)
-    - [Summary](#summary)
+  - [interview summary](#interview-summary)
   - [2. Follow-Up Interview](#2-follow-up-interview)
+  - [interview breakdown](#interview-breakdown)
+  - [information gained](#information-gained)
+    - [personal details](#personal-details)
+    - [personal strengths in regards to technology](#personal-strengths-in-regards-to-technology)
+    - [webpage concept](#webpage-concept)
+    - [webpage design - style](#webpage-design---style)
+    - [webpage design - details](#webpage-design---details)
+    - [development strategy](#development-strategy)
   - [3. Capture Findings](#3-capture-findings)
     - [Needs](#needs)
     - [Insights](#insights)
@@ -24,32 +29,107 @@
 
 ## 1. First Interview
 
-<!--
-  Take a few minutes getting to know your partner and their ambitions. Ask questions about:
+1st interview summary -sanne
 
-  - Their background (Professional, programming, personal)
-  - Their ambitions (Professional, programming, personal)
-  - Outside interests (For tying into a personal statement)
-  - And much more ... listen to your partner and ask questions about what they tell you.
+## interview summary
 
-  The best way to do your interview is with a lot of `why?`. Start your interview with one or two open-ended questions and follow up with a lot of `why?`, this gives your partner the chance to really explain themselves instead of just answering your questions. You might find that they even learn something about themselves!
--->
+- q: can i record our conversation?
 
-### Notes
+  > yes.
 
-<!-- Notes you took during the interview. -->
+- q: tell me a bit about your BG (professional, academic, technical)
 
-### Summary
+  > Currently an independent business owner, gives spin lessons online, works
+  > additionally as PR for online companies (5 years xp). in past worked as
+  > flight attendant for 15 years.
 
-<!-- Consolidate your notes into a few sentences. Do your best to express what your partner was trying to say, not what you learned from them. -->
+- q: Why/how did you get into these fields?
+
+  > Comes from pilot/attendant family. Enjoys teaching spin because classes are
+  > freeform and suitable to learners of varying BGs. likes working in PR for
+  > the opportunities of social media. Interested in new technologies, finds
+  > that they "make sense".
+
+- q: Why are you interested in making a change professionally?
+
+> left work as flight attendant to start a family. Interested in learning new
+> things.
+
+- q: What are your ambitions towards the future/future work?
+
+> Wants work/family life balance. Working mother. Prefers flexibility with
+> hours, ability to set on schedule. Can survive without work, but wants to
+> work. Gets bored when doing nothing.
+
+- q: What brought you to HYF?
+
+> Love of technology, self directed, likes learning by doing, trial and error.
+> Interested in the opportunities HYF brings, appreciates the professional
+> guidance.
+
+- q: How would you like to present yourself to the world?
+
+> Core values, Who I am, my strengths, can be used as portfolio - "fancy", shows
+> interests outside of work, keep simple
+
+- q: How would you like to express these things (theme/style)?
+
+> "Warm" website, somewhere you want to stay and explore, draws you in,
+> "Scandinavian" design, nice and crisp, clean lines.
 
 ---
 
 ## 2. Follow-Up Interview
 
-<!--
-  In this follow up interview you will present to your partner a summary of your first interview. You will do your best effort to understand, rephrase, and communicate your partners needs back to them. Take this chance to listen for their feedback on how well you understand their situation. Update your notes accordingly
--->
+follow up interview - sanne
+
+## interview breakdown
+
+- questions focused on sharpening information gained from 1st interview
+
+- spoke in more depth about webpage layout, planning strategy and design
+
+## information gained
+
+### personal details
+
+- has 1 child, not interested in having more children
+- went 'opposite way' in terms of career destination
+
+### personal strengths in regards to technology
+
+- natural troubleshooter, likes simplicity in tech, ux/ui, annoyed by overly
+- complex layouts, a logical thinker, is in 'honeymoon' stage as coder, needs
+- passion to become coder, optimistic
+
+### webpage concept
+
+- being a developer, webpage is a business card, 1st impression,
+- should be kept simple, not 'play all aces' at once, a jumping off point,
+- gives idea of skills/abilities
+
+### webpage design - style
+
+- warm;
+
+  > colors - off-white(?), font - rounded letters
+
+- architecture;
+
+  > clean lines, simple
+
+- challenge is finding balance between cleanness and warmth
+
+### webpage design - details
+
+- header + footer
+- numerous pages
+- menu (dropdown?)
+- portfolio on own page
+
+### development strategy
+
+> find example websites, good and bad, to use as visual references
 
 ---
 
@@ -87,12 +167,7 @@
 
 ## 5. Open-Ended Ideation
 
-<!--
-  Sketch up a few wireframes for your partner's home page with no regard for your their programming ability, time constraints, technical constraints, or any other practical considerations.
-  How are the designs different? How does each one serve your partner differently?
--->
-
-- [Sanne's Homepage](https://www.figma.com/file/6gMup79OfrAupqwIsn4pn4/Sanne's-homepage?node-id=0%3A1)
+- ![Sanne's Homepage](./images/sanne_-_ideation.jpg)
 - ...
 
 ---
