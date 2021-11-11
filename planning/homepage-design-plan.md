@@ -167,7 +167,7 @@ follow up interview - sanne
 
 ## 5. Open-Ended Ideation
 
-- 
+- ![Sanne Ideation](image/sanne_-_ideation.jpg)
 - ...
 
 ---
