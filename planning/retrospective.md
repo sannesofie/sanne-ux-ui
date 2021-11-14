@@ -27,6 +27,7 @@
 ### What parts of your plan went as expected?
 
 - Working with Aviv is great I learn a lot from him
+- The planning part has been great, I think we dod as we were supposed to
 
 ### What parts of your plan did not work out?
 
