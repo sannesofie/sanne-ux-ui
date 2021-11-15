@@ -27,9 +27,7 @@
 
 ### Deliver
 
-
 > individually
-
 
 - repository
 
