@@ -4,23 +4,26 @@
 
 ## Stop Doing
 
+- don't assume to fast regarding work
 ​
 
 ## Continue Doing
 
 - Having a meeting every day makes the work flow process easier and less room
-  for misunderstandings
+for misunderstandings
+- continiue looking at other websites for information and inspiration
 
 ​
 
 ## Start Doing
 
-- ​
+- ​ask for help earlier
+- Stay in touch with other team members
 
 ## Lessons Learned
 
 - Great working with new people and having a sort of client interview which is
-  useful for the future interviews we might be doing
+useful for the future interviews we might be doing
 
 ## Strategy vs. Board
 
