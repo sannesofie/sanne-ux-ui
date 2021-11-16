@@ -47,6 +47,51 @@ as a user i want to see a portfolio
 
   - [ ] css use links class
 
+as a user i want the website to be pretty
+
+- there is a cohesive design style on index.html about.html and
+  portfolio.html
+
+  - this will be developed as part of the nav bar on the 0-setup branch
+
+  - [ ] html use stylesheet to reference style.css
+
+  - [ ] css use :root and @font-face to setup font and colour scheme
+
+---
+
+### should have
+
+as a user i want to see what the developer can do
+
+- there are coding language icons in the skills section on index.html
+
+  - this will be developed as part of the nav bar on the -skills-icons branch
+
+  - [ ] html use link to reference icons
+
+  - [ ] css use skill__icon class
+
+as a user i want to reach the developer through social media
+
+- there are social media links on index.html
+
+  - this will be developed as part of the nav bar on the -sm-links branch
+
+  - [ ] html use a for social media links
+
+  - [ ] css use sm__links class
+
+as a user i want to reach the developer on social media
+
+- there are social media icons on index.html
+
+  - this will be developed as part of the nav bar on the -sm-icons branch
+
+  - [ ] html use link to reference icons
+
+  - [ ] css use sm__icons class
+
 ### Logic: user story
 
 - a _logic_ task -> this will become one issue
